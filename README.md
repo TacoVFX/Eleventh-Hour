@@ -1,4 +1,4 @@
-![Image not found](https://raw.githubusercontent.com/TacoVFX/Eleventh-Hour/master/EleventhHourProfile.png)
+![Image not found](https://raw.githubusercontent.com/TacoVFX/Eleventh-Hour/master/gitpages/images/EleventhHourBanner.png)
 
 Arcade rouge-like round based survival.
 
