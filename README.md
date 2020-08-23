@@ -2,5 +2,5 @@
 
 Arcade rouge-like round based survival.
 
-<b>Get it here</b>
-CurseForge: https://www.curseforge.com/minecraft/modpacks/eleventh-hour<br>
+<b>Get it here</b><br>
+CurseForge: https://www.curseforge.com/minecraft/modpacks/eleventh-hour
